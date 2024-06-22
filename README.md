@@ -106,9 +106,7 @@
 
 27. **Social Network Clone**
     - **Skills:** HTML, CSS, JavaScript, React, Node.js, Express, Real-Time Features
-    - **Description:** Create a simplified social network clone with user
-
- profiles, posts, likes, and real-time updates.
+    - **Description:** Create a simplified social network clone with user profiles, posts, likes, and real-time updates.
 
 28. **Task Management System**
     - **Skills:** HTML, CSS, JavaScript, React, Vue.js, Node.js, Express, User Authentication
